@@ -1,0 +1,100 @@
+<!--  
+		:link,:visited { text-decoration:none }
+		ul,ol { list-style:none }
+		h1,h2,h3,h4,h5,h6,pre,code { font-size:1em; }
+		ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input
+		{ margin:0; padding:0 }
+		a img,:link img,:visited img { border:none }
+		address { font-style:normal }
+
+
+    /*@import "dashboard.css";*/
+  
+		a:link {
+  		color: rgba(39, 60, 117,1.0);
+  	}
+  	a:hover {
+  		background: rgba(251, 197, 49,1.0);
+  	}
+  	a:visited {
+  		color: rgba(25, 42, 86,1.0);
+  	}
+  
+  	body {
+  		margin: 20px;
+  		font: 14px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  		 background: #303033 url("https://landsurveyorsunited.github.io/x-navigation/img/bnoise.png");
+  	}
+  	
+  	p {
+  		font-size: 12px;
+  		margin-top: 10px;
+  	}
+  	
+  	h1 {
+  		font-size: 1.5em;
+  		text-transform: uppercase;
+  		color: #aaa;
+  	}
+  	
+  	#fheader {
+  		margin-left:12px;
+  	}
+  	
+  	#news,
+  	#weather,
+  	#traffic {
+  		background: white;
+  		padding: 10px;
+  		margin-bottom: 20px;
+  	}
+span.headline a {color:#a12712!important;font-size:0.9em;}
+  	#news {
+  		position: absolute;
+  		top: 75px;
+  		width: 56%;
+  	}
+  	
+  	p#credit {
+  		font-size: 11px;
+  		color: #eee;
+  		margin: 0;
+  		padding: 0;
+  	}
+  	
+  	h2 {
+  		font-size: 1.1em;
+  		letter-spacing: -1px;
+  		margin-bottom: 10px;
+  	}
+  	
+  	#news {
+  		font-size: 32px;
+  	}
+  	#news ul li,
+  	#weather ul li,
+  	#traffic ul li {
+  		margin-top: 8px;
+  	}
+  	
+  	#news ul li {
+  		line-height: 23px;
+  	}
+  	
+  	#right {
+  		position: absolute;
+  		left: 64%;
+  		top: 75px;
+  		margin-right: 20px;
+  	}
+  	
+  	#weather h2,
+  	#traffic h2 {
+  		font-size: 16px;
+  	}
+  	#weather ul li div,
+  	#traffic ul li div {
+			display: inline;
+  	}
+  
+  -->
